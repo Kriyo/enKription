@@ -1,0 +1,8 @@
+c:\users\kri\documents\visual studio 2012\Projects\TripDesEncryption\TripDesEncryption\bin\Release\TripDesEncryption.exe.config
+c:\users\kri\documents\visual studio 2012\Projects\TripDesEncryption\TripDesEncryption\bin\Release\TripDesEncryption.exe
+c:\users\kri\documents\visual studio 2012\Projects\TripDesEncryption\TripDesEncryption\bin\Release\TripDesEncryption.pdb
+c:\users\kri\documents\visual studio 2012\Projects\TripDesEncryption\TripDesEncryption\obj\Release\TripDesEncryption.Form1.resources
+c:\users\kri\documents\visual studio 2012\Projects\TripDesEncryption\TripDesEncryption\obj\Release\TripDesEncryption.Properties.Resources.resources
+c:\users\kri\documents\visual studio 2012\Projects\TripDesEncryption\TripDesEncryption\obj\Release\TripDesEncryption.csproj.GenerateResource.Cache
+c:\users\kri\documents\visual studio 2012\Projects\TripDesEncryption\TripDesEncryption\obj\Release\TripDesEncryption.exe
+c:\users\kri\documents\visual studio 2012\Projects\TripDesEncryption\TripDesEncryption\obj\Release\TripDesEncryption.pdb
